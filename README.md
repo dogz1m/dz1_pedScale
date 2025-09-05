@@ -2,6 +2,14 @@
 
 Sistema completo e multiframework para alterar a escala (tamanho) de personagens no FiveM, com interface NUI moderna e sincronização em tempo real.
 
+
+
+<img width="375" height="365" alt="Captura de tela 2025-09-05 182138" src="https://github.com/user-attachments/assets/e3b29ef7-03a1-4b8c-ba2a-f21fc066eb70" />
+<img width="375" height="365" alt="Captura de tela 2025-09-05 182138" src="https://github.com/user-attachments/assets/2f9d1b03-a62d-4476-bbb8-066549f0d2e4" />
+<img width="432" height="420" alt="Captura de tela 2025-09-05 190042" src="https://github.com/user-attachments/assets/69bb88aa-12ec-44d8-b774-a92f97f6a75e" />
+<img width="318" height="295" alt="Captura de tela 2025-09-05 190030" src="https://github.com/user-attachments/assets/12a8ac6f-2986-4aa0-b26d-69fd4b4656a3" />
+
+
 ## 📋 Características
 
 - ✅ **Multiframework**: Suporte para ESX, QBCore, VRP e Standalone
